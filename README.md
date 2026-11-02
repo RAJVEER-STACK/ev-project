@@ -9,7 +9,7 @@
 ---
 
 ## 📸 Dashboard Preview
-👉   
+👉   https://github.com/RAJVEER-STACK/ev-project/blob/main/DASHBOARDPREVIEW.png
 ---
 
 ## 📊 Visualizations Included
